@@ -4,7 +4,9 @@ Between Us is an Android Experiment that explores distance and connectedness bet
 
 This app is open source and illustrates use of NFC for device pairing, animated widgets, power efficient background GPS updates and simple communication with a server.
 
-For more information about this application please visit http://www.androidexperiments.com
+The app can be downloaded from the Play Store at https://play.google.com/store/apps/details?id=com.larvalabs.betweenus
+
+For more information about this application and more experiments please visit http://www.androidexperiments.com
 
 #### Useful commands for converting gifs
 
