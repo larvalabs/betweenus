@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="20dp"
+    android:background="@color/activityBackground"
+    >
+
+    <include layout="@layout/header" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/activity_units" />
+
+    <TextView
+        android:id="@+id/units_caption"
+        style="@style/pairing_caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:gravity="center_horizontal"
+        android:text="@string/units_caption" />
+
+    <TextView
+        android:id="@+id/metric_btn"
+        style="@style/btn_style"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_selector"
+        android:gravity="center"
+        android:padding="10dp"
+        android:clickable="true"
+        android:onClick="clickedMetric"
+        android:text="@string/units_metric" />
+
+    <TextView
+        android:id="@+id/standard_btn"
+        style="@style/btn_style"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_selector"
+        android:gravity="center"
+        android:padding="10dp"
+        android:clickable="true"
+        android:onClick="clickedStandard"
+        android:text="@string/units_standard" />
+
+</LinearLayout>

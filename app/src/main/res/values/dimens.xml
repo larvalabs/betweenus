@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_progress_height">4dp</dimen>
+
+    <dimen name="btn_fullscreen_width">240dp</dimen>
+    <dimen name="btn_fullscreen_spacer">40dp</dimen>
+</resources>

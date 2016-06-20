@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Between Us</string>
+    <string name="nfc_not_available">Please enable NFC in settings</string>
+    <string name="welcome_subtitle">An Android experiment</string>
+
+    <!-- Pairing captions -->
+    <string name="user_info_caption">Hello, and your name is?</string>
+    <string name="phones_touch_caption">Touch phones back to back to connect.</string>
+    <string name="finding_partner_caption">Finding partner.</string>
+    <string name="connected_caption">Connected to Corey</string>
+    <string name="howtosetwidget_caption">1. Long press on home screen\n\n2. Select Widgets\n\n3. Select Between Us\n\n4. Drag &amp; place widget</string>
+    <string name="disconnected_caption">Now you\'re disconnected.</string>
+    <string name="username_edittext_error">This field can not be blank</string>
+
+    <!-- Buttons -->
+    <string name="continue_btn">Continue</string>
+    <string name="about_btn">About</string>
+    <string name="widgets_btn">How to set widget</string>
+    <string name="units_btn">Units</string>
+    <string name="disconnect_btn">Disconnect</string>
+    <string name="start_over_btn">START OVER</string>
+
+    <!-- About -->
+    <string name="about_text_part1">Distance can be hard to fathom. From across the country to around the world, thousands of miles quickly lose meaning.</string>
+    <string name="about_text_part2">Between Us is an app to illustrate just how far away someone is. Simply pair with a partner and see exactly how far away they are in easily understood units.</string>
+    <string name="about_text_part3">Maybe it won\'t seem very far at all.</string>
+    <string name="user_connection_failed">User connection failed</string>
+    <string name="finding_partner_timeout">Finding partner time out</string>
+    <string name="error_username_server">Failed setting username</string>
+
+    <!-- Widget -->
+    <string name="widget_connect_to_partner">Connect to partner to see what\'s between you.</string>
+    <string name="widget_users_disconnected">You\'re no longer connected to your partner.</string>
+    <string name="widget_loading">Loading...</string>
+
+    <!-- Units settings -->
+    <string name="units_caption">Which unit of measurement would you like to use?</string>
+    <string name="units_metric">Metric</string>
+    <string name="units_standard">Standard</string>
+
+    <!-- Units caption -->
+    <string name="mars_caption">Mars</string>
+    <string name="moon_caption">The Moon</string>
+    <string name="pluto_caption">Pluto</string>
+    <string name="tour_france_caption">Tour de France stage</string>
+    <string name="loch_ness_caption">Loch Ness</string>
+    <string name="mountain_caption">Mt Everest</string>
+    <string name="golden_gate_bridge_caption">Golden Gate Bridge</string>
+    <string name="empire_state_building_caption">Empire State Building</string>
+    <string name="eiffel_tour_caption">The Eiffel Tower</string>
+    <string name="pyramid_giza_caption">Great Pyramid of Giza</string>
+    <string name="hyperion_tree_caption">Hyperion, the tallest living tree</string>
+    <string name="soccer_field_caption">Soccer Field</string>
+    <string name="commercial_airplane_caption">Commercial Airplane</string>
+    <string name="largest_pizza_caption">World\'s Largest Pizza</string>
+    <string name="saguaro_cactus_caption">Saguaro Cactus</string>
+    <string name="giraffe_caption">A Giraffe</string>
+    <string name="car_caption">A Car</string>
+    <string name="basketball_caption">A Basketball</string>
+    <string name="pencil_caption">A Pencil</string>
+    <string name="easterhead_caption">The Moai</string>
+    <string name="paperclip_caption">Paper Clip</string>
+    <string name="phone_caption">Nexus 6P</string>
+    <string name="stopsign_caption">Stop Sign</string>
+    <string name="watch_caption">A Wrist Watch</string>
+    <string name="whale_caption">Blue Whale</string>
+    <string name="things_between_us">Things between us:</string>
+    <string name="things_between_username_and_i">Things between %1$s and I:</string>
+
+    <!-- Units size -->
+    <string name="mars_size">4,222 miles in diameter|6795 km in diameter</string>
+    <string name="moon_size">2,159 miles in diameter|3474 km in diameter</string>
+    <string name="pluto_size">1,474 miles in diameter|2372 km in diameter</string>
+    <string name="tour_france_size">23 miles long|37 km in length</string>
+    <string name="loch_ness_size">5 1/2 miles tall|9 km tall</string>
+    <string name="mountain_size">1 3/4 miles long|2 3/4 km in length</string>
+    <string name="golden_gate_bridge_size">1,250 feet tall|381 m tall</string>
+    <string name="empire_state_building_size">984 feet tall|300 m tall</string>
+    <string name="eiffel_tour_size">455 feet tall|138 m tall</string>
+    <string name="pyramid_giza_size">380 feet tall|115 m tall </string>
+    <string name="hyperion_tree_size">360 feet long|110 m in length</string>
+    <string name="soccer_field_size">360 feet long|110 m in length</string>
+    <string name="commercial_airplane_size">121 feet long|37 m long</string>
+    <string name="largest_pizza_size">122 feet diameter|37 m in diameter</string>
+    <string name="saguaro_cactus_size">60 feet tall|18 m tall</string>
+    <string name="giraffe_size">18 feet tall|5.5 m tall</string>
+    <string name="car_size">15 feet long|4.75 m long</string>
+    <string name="basketball_size">28 1/2 inches diameter|72 cm in diameter</string>
+    <string name="pencil_size">7 1/2 inches long|19 cm long</string>
+    <string name="easterhead_size">13 feet tall|4 m tall</string>
+    <string name="paperclip_size">1 1/2 inches long|4 cm long</string>
+    <string name="phone_size">6 1/4 inches tall|16 cm tall</string>
+    <string name="stopsign_size">8 feet tall|2.5 m tall</string>
+    <string name="watch_size">10 inches long|25 cm long</string>
+    <string name="whale_size">80 feet long|30 m long</string>
+
+    <string name="betweenus_default">Between us</string>
+
+</resources>

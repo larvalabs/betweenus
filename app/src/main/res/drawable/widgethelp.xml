@@ -1,0 +1,71 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pairing"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/widgethelp_0"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_1"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_2"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_3"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_4"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_5"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_6"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_7"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_8"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_9"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_10"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_11"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_12"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_13"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_14"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_15"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_16"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_17"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_18"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_19"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_20"
+        android:duration="333" />
+    <item
+        android:drawable="@drawable/widgethelp_21"
+        android:duration="500" />
+
+</animation-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activityBackground">#FFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#808080</color>
+    <color name="text_widget">#9c9c9c</color>
+
+    <!-- AnimatedGifImageView -->
+    <color name="default_gif_load_progress">#98302b</color>
+
+    <item name="pressed_darken_less" type="color">#1C000000</item>
+</resources>

@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/finding_partner"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/finding_partner_0000"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/finding_partner_0001"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/finding_partner_0002"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/finding_partner_0003"
+        android:duration="200" />
+
+</animation-list>

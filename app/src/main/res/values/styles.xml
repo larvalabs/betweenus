@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+
+
+    <!-- STYLES -->
+    <style name="welcome_subtitle">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:tag">typeface_questrial_regular</item>
+    </style>
+
+    <style name="pairing_caption">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:tag">typeface_questrial_regular</item>
+    </style>
+
+    <style name="btn_style">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:tag">typeface_questrial_regular</item>
+    </style>
+
+    <style name="btn_style_large">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:tag">typeface_questrial_regular</item>
+    </style>
+
+    <style name="about_text">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:tag">typeface_questrial_regular</item>
+    </style>
+
+</resources>
