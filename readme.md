@@ -7,8 +7,3 @@ This app is open source and illustrates use of NFC for device pairing, animated 
 The app can be downloaded from the Play Store at https://play.google.com/store/apps/details?id=com.larvalabs.betweenus
 
 For more information about this application and more experiments please visit http://www.androidexperiments.com
-
-#### Useful commands for converting gifs
-
-1. gifsicle -e --unoptimize path/to/gifs/file.gif
-1. convert -resize 25% *.gif.* 'phone_%d.png'
